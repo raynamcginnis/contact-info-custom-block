@@ -1,0 +1,11 @@
+.wp-block-ffws-custom-block-contact-info {
+    border: 1px solid black;
+    padding: 5%;
+}
+
+h3 {
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 0px;
+}
